@@ -1,0 +1,38 @@
+{
+  "all-resumes": [
+    {
+      "id": "e715",
+      "professionalData": {
+        "name": "Alen Anto",
+        "jobTitle": "dev",
+        "location": "kochi",
+        "email": "alenanto05@gmail.com",
+        "phone": "123456789",
+        "github": "kmmmmkmkmkmk",
+        "linkedin": "jjefljwnfljkwnf",
+        "portfolio": "kflewnflkenvflernflk"
+      },
+      "educationData": {
+        "course": "BCA",
+        "college": "MET's",
+        "university": "Calicut University",
+        "year": "2025"
+      },
+      "experience": {
+        "jobRole": "internship",
+        "company": "Luminar",
+        "jobLocation": "Kochi",
+        "duration": "6 months"
+      },
+      "skill": [
+        "HTML",
+        "CSS",
+        "JAVASCRIPT",
+        "REACT",
+        "MONGODB",
+        "NODEJS"
+      ],
+      "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+    }
+  ]
+}
